@@ -4,13 +4,14 @@ import Card from 'react-bootstrap/Card';
 import ListGroup from 'react-bootstrap/ListGroup';
 import ListGroupItem from 'react-bootstrap/ListGroupItem';
 import CardBtn from '../CardBtn/CardBtn';
+import Cortado from '../../images/cortado.jpg';
 
 
 function CoffeeCard () {
     return(
         <>
         <Card style={{ width: '18rem' }}>
-        <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
+        <Card.Img variant="top" src={Cortado} />
         <Card.Body>
           <Card.Title>Coffee Drink Name</Card.Title>
           <Card.Text>
