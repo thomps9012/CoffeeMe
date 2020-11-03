@@ -1,0 +1,17 @@
+.IcedCoffee{
+    background-image: url(icedCoffee.jpg);
+    background-repeat: no-repeat;
+    height: 95vh;
+    margin-top: 2vh;
+    width: 75%;   
+    background-size: 100% ;
+   }
+   
+   .title{
+       position: relative;
+       margin-top: 75vh;
+       margin-right: 145vh;
+       size: 10vh;
+       font-family: 'Itim', cursive;
+   }
+   

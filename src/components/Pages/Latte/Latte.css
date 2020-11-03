@@ -1,0 +1,18 @@
+.Latte{
+    background-image: url(latte.jpg);
+    background-repeat: no-repeat;
+    height: 95vh;
+    float: right;
+    margin-top: 2vh;
+    width: 65%;   
+    background-size: 100% ;
+   }
+   
+   .title{
+       position: relative;
+       margin-top: 75vh;
+       margin-right: 145vh;
+       size: 10vh;
+       font-family: 'Itim', cursive;
+   }
+   

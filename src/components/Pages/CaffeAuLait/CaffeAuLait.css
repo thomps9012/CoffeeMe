@@ -1,0 +1,18 @@
+.CaffeAuLait{
+    background-image: url(caffeAuLait.jpg);
+    background-repeat: no-repeat;
+    height: 95vh;
+    margin-top: 12vh;
+    margin-left: 20vh;
+    width: 55%;   
+    background-size: 100% ;
+   }
+   
+   .title{
+       position: relative;
+       margin-top: 75vh;
+       margin-right: 145vh;
+       size: 10vh;
+       font-family: 'Itim', cursive;
+   }
+   
